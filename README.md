@@ -18,7 +18,7 @@ I'm a developer passionate about technology, learning, and building useful proje
 I'm always open to interesting projects or collaborations.  
 Feel free to reach out if you'd like to work together or just chat about tech!
 
-📫 Contact me on Telegram: [@denstep256](https://t.me/denstep256)
+📫 Contact me on Telegram: [@denstep256](https://t.me/denstep256) or Linkedin: [@denstep256](https://www.linkedin.com/in/denstep256/)
 
 ---
 
