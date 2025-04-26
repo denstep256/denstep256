@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Hi there! I'm Denis.
 
-<!--
-**denstep256/denstep256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer passionate about technology, learning, and building useful projects. I enjoy writing clean and efficient code, exploring new tools, and constantly improving my skills.
 
-Here are some ideas to get you started:
+### 🚀 What I Do:
+- Build Telegram bots using Python  
+- Work with databases (SQLAlchemy, SQLite, PostgreSQL)  
+- Use Docker for deploying projects  
+- Interested in AI/ML, web technologies, and automation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Hobbies & Interests:
+- Programming & system administration  
+- Learning languages (including Chinese 🇨🇳!)  
+- Cybersecurity & online privacy  
+- Working out & personal productivity  
+
+### 🤝 Open to Opportunities:
+I'm always open to interesting projects or collaborations.  
+Feel free to reach out if you'd like to work together or just chat about tech!
+
+📫 Contact me on Telegram: [@denstep256](https://t.me/denstep256)
+
+---
+
+_Thanks for visiting my profile!_
